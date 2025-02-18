@@ -47,5 +47,3 @@ Our model successfully predicts cancer mortality rates with a reasonable level o
 
 ---
 
-## 🗂 Project Structure  
-
