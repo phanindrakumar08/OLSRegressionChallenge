@@ -1,5 +1,8 @@
 # 🏥 Cancer Mortality Rate Prediction (US Counties)  
 
+![image](https://github.com/user-attachments/assets/c019e654-4e05-4b62-a92d-680bffdd37c4)
+
+
 ## 📌 Project Overview  
 This project aims to **predict cancer mortality rates (TARGET_deathRate) for US counties** using **Multiple Linear Regression (MLR)**. The dataset aggregates information from multiple sources, including:  
 - **American Community Survey (census.gov)**  
